@@ -34,10 +34,12 @@ TOEIC 740점 (취득일 : 2025. 09)
 TOEIC(Speaking) IM3(취득일: 2025. 08)
 소방안전관리자 3급 
 
-## 교육사항
+## 교육사항 Training & Development
 
-[삼정] ESG 데이터 활용 AX Academy with AI Agent 2025-12-11 ~2026-06-25
+[삼정] ESG 데이터 활용 AX Academy with AI Agent 2025-12-11 ~ 2026-06-25
 - 최우수상 수상
 
-Education 
+[ 하이미디어아카데미 ] 심화_생성형 AI활용 인재양성과정 (조별멘토) 2026-07-24 ~ 2026-09-21
+
+
 
