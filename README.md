@@ -17,7 +17,7 @@ RAG 아키텍처 및 분산 파이프라인 설계로 AI 추론 시간을 77.7% 
 | **AI & LLM** | Architecture - RAG(Hybrid Search, CrossEncoder, RRF) |
 | | Model Optimization - PEFT (LoRA), sLLM |
 | **Database & Caching** | PostgreSQL(pgvector), MariaDB (MySQL), Redis |
-| **Infra & DevOps** | Docker, Kubernetes, Apache Airflow, Apache Kafka |
+| **Infra & DevOps** | Docker, Apache Airflow, Apache Kafka |
 | **Tools** | Git, GitHub, GitHub Actions, HuggingFace, Notion |			   
 
 ## 학력 Educations
@@ -27,7 +27,7 @@ RAG 아키텍처 및 분산 파이프라인 설계로 AI 추론 시간을 77.7% 
 
 ## 자격증/ 어학 Certification/ Language  
 
-정보처리기사(필기 합격)
+정보처리기사(취득일 : 2026. 09)
 화공기사 (필기 합격)
 TOEIC 740점 (취득일 : 2025. 09)
 TOEIC(Speaking) IM3(취득일: 2025. 08)
