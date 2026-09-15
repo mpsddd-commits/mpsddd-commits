@@ -16,7 +16,6 @@ RAG 아키텍처 및 분산 파이프라인 설계로 AI 추론 시간을 77.7% 
 | **Frameworks** | FastAPI, LangChain, LangGraph |
 | **AI & LLM** | Architecture - RAG(Hybrid Search, CrossEncoder, RRF) |
 | | Model Optimization - PEFT (LoRA), sLLM |
-| | Fine-Tuning & Local Deployment - Gemma & Qwen, Ollama |
 | **Database & Caching** | PostgreSQL(pgvector), MariaDB (MySQL), Redis |
 | **Infra & DevOps** | Docker, Kubernetes, Apache Airflow, Apache Kafka |
 | **Tools** | Git, GitHub, GitHub Actions, HuggingFace, Notion |			   
